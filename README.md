@@ -1,0 +1,1 @@
+In this repository i created 3 files named first_oop_python, second_oop_python and third_oop_python where in this files i writes python codes for inheritance, abstraction, polymorphism and encapsulation
